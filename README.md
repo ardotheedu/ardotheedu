@@ -21,8 +21,7 @@ Estou cursando o 2º semestre de Licenciatura em computação pelo Instituto Fed
 ![Mysql Badge](https://img.shields.io/badge/-MySQL-6633cc?style=flat-square&logo=mysql&logoColor=white) 
 ![mongodb Badge](https://img.shields.io/badge/-MongoDB-6633cc?style=flat-square&logo=Mongodb&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardotheedu&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardotheedu&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
