@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Eduardo.</h1>
 <h3 align="center">Apaixonado pelo frontend e aprender</h3>
 
-Estou cursando o 2º semestre de Licenciatura em computação pelo Instituto Federal de Educação, Ciência e Tecnologia do sertão de Pernambuco (IFsertãoPE)
+Estou cursando o 3º semestre de Licenciatura em computação pelo Instituto Federal de Educação, Ciência e Tecnologia do sertão de Pernambuco (IFsertãoPE)
 
 # Social
 [![Gmail Badge](https://img.shields.io/badge/-eduardosalima3@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardosalima3@gmail.com)](mailto:eduardosalima3@gmail.com) 
