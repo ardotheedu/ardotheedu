@@ -4,7 +4,6 @@
 Estou cursando o 4º semestre de Licenciatura em computação pelo Instituto Federal de Educação, Ciência e Tecnologia do sertão de Pernambuco (IFsertãoPE)
 
 # Social
-[![Gmail Badge](https://img.shields.io/badge/-eduardosalima3@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardosalima3@gmail.com)](mailto:eduardosalima3@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20de%20Sá-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmiguelm/)](https://www.linkedin.com/in/eduardo-de-sa/)
 [![Instagram Badge](https://img.shields.io/badge/-@eduardo__saaa-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eduardo_saaaa/)](https://www.instagram.com/eduardo_saaaa/)
 
