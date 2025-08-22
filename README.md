@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Eduardo.</h1>
 <h3 align="center">Apaixonado pelo desenvolvimento e aprender</h3>
 
-Estou cursando o 6º semestre de Licenciatura em computação pelo Instituto Federal de Educação, Ciência e Tecnologia do sertão de Pernambuco (IFsertãoPE)
+Estou cursando o 8º semestre de Licenciatura em computação pelo Instituto Federal de Educação, Ciência e Tecnologia do sertão de Pernambuco (IFsertãoPE)
 
 # Social
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20de%20Sá-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmiguelm/)](https://www.linkedin.com/in/eduardo-de-sa/)
